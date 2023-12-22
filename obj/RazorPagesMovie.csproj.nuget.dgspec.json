@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "c:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Documents\\Practices\\DotNet\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
